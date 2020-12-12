@@ -5,7 +5,7 @@ import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
 import test.world.TestWorld;
 
-public class HtmlLauncher extends GwtApplication {
+/*public class HtmlLauncher extends GwtApplication {
 
         @Override
         public GwtApplicationConfiguration getConfig () {
@@ -19,4 +19,4 @@ public class HtmlLauncher extends GwtApplication {
         public ApplicationListener createApplicationListener () {
                 return new TestWorld();
         }
-}
+}*/
